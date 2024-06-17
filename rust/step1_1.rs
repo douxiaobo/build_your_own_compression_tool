@@ -21,3 +21,4 @@ fn main(){
     }
     println!("X: {},t: {}",character[&'X'],character[&'t']);
 }
+

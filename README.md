@@ -4,4 +4,9 @@
 
 ### June 15
 
-Success with step1.
+Success with step1.<br>
+
+### June 17
+
+Success traverse and sort in hashmap.<br>
+thinking how to establish binary tree.<br>
