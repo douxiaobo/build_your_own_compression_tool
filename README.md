@@ -10,3 +10,8 @@ Success with step1.<br>
 
 Success traverse and sort in hashmap.<br>
 thinking how to establish binary tree.<br>
+
+### June 18
+
+Success establish binary tree.<br>
+
