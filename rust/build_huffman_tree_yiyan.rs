@@ -93,78 +93,78 @@ fn main() {
 }
 
 
-HuffmanNode { 
-    weight: 100, 
-    symbol: None, 
-    left: Some(
-        HuffmanNode { 
-            weight: 45, 
-            symbol: Some('a'), 
-            left: None, 
-            right: None 
-        }
-    ), 
-    right: Some(
-        HuffmanNode { 
-            weight: 55, 
-            symbol: None, 
-            left: Some(
-                HuffmanNode { 
-                    weight: 25, 
-                    symbol: None, 
-                    left: Some(
-                        HuffmanNode { 
-                            weight: 12, 
-                            symbol: Some('c'), 
-                            left: None, right: None 
-                        }
-                    ), 
-                    right: Some(
-                        HuffmanNode { 
-                            weight: 13, 
-                            symbol: Some('b'), 
-                            left: None, 
-                            right: None 
-                        }
-                    ) 
-                }
-            ), 
-            right: Some(
-                HuffmanNode { 
-                    weight: 30, 
-                    symbol: None, 
-                    left: Some(
-                        HuffmanNode { 
-                            weight: 14, 
-                            symbol: None, 
-                            left: Some(
-                                HuffmanNode { 
-                                    weight: 5, 
-                                    symbol: Some('f'), 
-                                    left: None, 
-                                    right: None 
-                                }
-                            ), 
-                            right: Some(
-                                HuffmanNode { 
-                                    weight: 9, 
-                                    symbol: Some('e'), 
-                                    left: None, 
-                                    right: None 
-                                }
-                            ) 
-                        }
-                    ), 
-                    right: Some(
-                        HuffmanNode { 
-                            weight: 16, 
-                            symbol: Some('d'), 
-                            left: None, 
-                            right: None 
-                        }
-                    ) 
-                }
-            ) 
-        }
-    ) 
-}
+// HuffmanNode { 
+//     weight: 100, 
+//     symbol: None, 
+//     left: Some(
+//         HuffmanNode { 
+//             weight: 45, 
+//             symbol: Some('a'), 
+//             left: None, 
+//             right: None 
+//         }
+//     ), 
+//     right: Some(
+//         HuffmanNode { 
+//             weight: 55, 
+//             symbol: None, 
+//             left: Some(
+//                 HuffmanNode { 
+//                     weight: 25, 
+//                     symbol: None, 
+//                     left: Some(
+//                         HuffmanNode { 
+//                             weight: 12, 
+//                             symbol: Some('c'), 
+//                             left: None, right: None 
+//                         }
+//                     ), 
+//                     right: Some(
+//                         HuffmanNode { 
+//                             weight: 13, 
+//                             symbol: Some('b'), 
+//                             left: None, 
+//                             right: None 
+//                         }
+//                     ) 
+//                 }
+//             ), 
+//             right: Some(
+//                 HuffmanNode { 
+//                     weight: 30, 
+//                     symbol: None, 
+//                     left: Some(
+//                         HuffmanNode { 
+//                             weight: 14, 
+//                             symbol: None, 
+//                             left: Some(
+//                                 HuffmanNode { 
+//                                     weight: 5, 
+//                                     symbol: Some('f'), 
+//                                     left: None, 
+//                                     right: None 
+//                                 }
+//                             ), 
+//                             right: Some(
+//                                 HuffmanNode { 
+//                                     weight: 9, 
+//                                     symbol: Some('e'), 
+//                                     left: None, 
+//                                     right: None 
+//                                 }
+//                             ) 
+//                         }
+//                     ), 
+//                     right: Some(
+//                         HuffmanNode { 
+//                             weight: 16, 
+//                             symbol: Some('d'), 
+//                             left: None, 
+//                             right: None 
+//                         }
+//                     ) 
+//                 }
+//             ) 
+//         }
+//     ) 
+// }

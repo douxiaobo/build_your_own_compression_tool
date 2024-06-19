@@ -15,3 +15,7 @@ thinking how to establish binary tree.<br>
 
 Success establish binary tree.<br>
 
+### June 19
+
+Fail in Step2 and Step3.<br>
+./rust/byoct.rs
