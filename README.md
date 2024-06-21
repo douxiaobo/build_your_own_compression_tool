@@ -19,3 +19,8 @@ Success establish binary tree.<br>
 
 Fail in Step2 and Step3.<br>
 ./rust/byoct.rs
+
+### June 20
+
+Difficult and never success.<br>
+./rust/byoct1.rs
